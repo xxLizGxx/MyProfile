@@ -1,0 +1,33 @@
+h2 {
+    color : blue;
+}
+
+
+
+
+.header {
+    background-color: lightsteelblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-evenly;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: lightskyblue;
+
+}
+.paragraph {
+    display: flex;
+    justify-content:last baseline;
+    text-align: center;
+    background-color: rgb(32, 59, 139);
+    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: powderblue;
+}
